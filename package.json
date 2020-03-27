@@ -8,7 +8,7 @@
     "@testing-library/user-event": "^7.2.1",
     "nodemon": "^2.0.2",
     "react": "^16.13.0",
-    "react-card-flip": "^1.0.10",
+    "react-card-flip": "git+https://github.com/heath3conk/react-card-flippin.git",
     "react-dom": "^16.13.0",
     "react-scripts": "3.4.0"
   },

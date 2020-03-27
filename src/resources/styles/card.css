@@ -1,14 +1,10 @@
 .react-card-front {
-    height: 200px;
-    width: 140px;
     background-color: silver;
     border-radius: 5%;
     border: black double;
 }
 
 .react-card-back {
-    height: 200px;
-    width: 140px;
     background-color: #0080C7;
     border-radius: 5%;
     border: black double;
