@@ -1,0 +1,35 @@
+.react-card-front {
+    height: 200px;
+    width: 140px;
+    background-color: silver;
+    border-radius: 5%;
+    border: black double;
+}
+
+.react-card-back {
+    height: 200px;
+    width: 140px;
+    background-color: #0080C7;
+    border-radius: 5%;
+    border: black double;
+}
+
+.react-card-flipper {
+    padding: 25px;
+    margin: auto;
+    width: 50%;
+}
+
+.digitalLogo {
+    height: 92px;
+    width: 120px;
+    padding-top: 35%;
+}
+
+.characterFace {
+    padding: 14px 0;
+}
+
+#clickable {
+    height: 100%;
+}
