@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/flippin-game/static/css/main.a66ba469.chunk.css",
+    "main.js": "/flippin-game/static/js/main.eccdc2f6.chunk.js",
+    "main.js.map": "/flippin-game/static/js/main.eccdc2f6.chunk.js.map",
+    "runtime-main.js": "/flippin-game/static/js/runtime-main.4df2bbca.js",
+    "runtime-main.js.map": "/flippin-game/static/js/runtime-main.4df2bbca.js.map",
+    "static/js/2.4ea74634.chunk.js": "/flippin-game/static/js/2.4ea74634.chunk.js",
+    "static/js/2.4ea74634.chunk.js.map": "/flippin-game/static/js/2.4ea74634.chunk.js.map",
+    "index.html": "/flippin-game/index.html",
+    "precache-manifest.73cfe4faae22478e5866c854712109b9.js": "/flippin-game/precache-manifest.73cfe4faae22478e5866c854712109b9.js",
+    "service-worker.js": "/flippin-game/service-worker.js",
+    "static/css/main.a66ba469.chunk.css.map": "/flippin-game/static/css/main.a66ba469.chunk.css.map",
+    "static/js/2.4ea74634.chunk.js.LICENSE.txt": "/flippin-game/static/js/2.4ea74634.chunk.js.LICENSE.txt",
+    "static/media/DigitalLogo.png": "/flippin-game/static/media/DigitalLogo.ef948819.png",
+    "static/media/gameboard.css": "/flippin-game/static/media/simpsons-house.e514ebee.jpg",
+    "static/media/simpsonsThemeSong.mp3": "/flippin-game/static/media/simpsonsThemeSong.07af4b62.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4df2bbca.js",
+    "static/js/2.4ea74634.chunk.js",
+    "static/css/main.a66ba469.chunk.css",
+    "static/js/main.eccdc2f6.chunk.js"
+  ]
+}
