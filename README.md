@@ -1,1 +1,1 @@
-flippin-game: https://dpSubmarineApps.github.io/flippin-game
+flippin-game: [https://dpSubmarineApps.github.io/flippin-game](https://dpSubmarineApps.github.io/flippin-game)
